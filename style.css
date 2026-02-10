@@ -30,3 +30,5 @@ p:hover {
     transform: scale(1.02);
     background: #f1f9ff;
 }
+    align-items: baseline;
+}
