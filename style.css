@@ -16,3 +16,7 @@ p {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
     transition: 0.3s ease;
 }
+p:hover {
+    transform: scale(1.02);
+    background: #f1f9ff;
+}
