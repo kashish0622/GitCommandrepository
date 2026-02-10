@@ -22,13 +22,9 @@ body {
     padding: 40px;
     display: flex;
     justify-content: center;
-}
-p::first-letter {
-    font-weight: bold;
-}
+    align-items: baseline;
+    
 p:hover {
     transform: scale(1.02);
     background: #f1f9ff;
-}
-    align-items: baseline;
 }
