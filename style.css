@@ -23,3 +23,6 @@ body {
     display: flex;
     justify-content: center;
 }
+p::first-letter {
+    font-weight: bold;
+}
