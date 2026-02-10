@@ -26,3 +26,7 @@ body {
 p::first-letter {
     font-weight: bold;
 }
+p:hover {
+    transform: scale(1.02);
+    background: #f1f9ff;
+}
