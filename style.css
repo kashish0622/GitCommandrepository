@@ -16,3 +16,10 @@ p {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
     transition: 0.3s ease;
 }
+body {
+    background: linear-gradient(to right, #f8f9fa, #e9ecef);
+    color: #333;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
