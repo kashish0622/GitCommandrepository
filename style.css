@@ -6,3 +6,13 @@ h2 {
     letter-spacing: 1px;
     text-transform: capitalize;
 }
+p {
+    background: white;
+    padding: 15px 20px;
+    margin: 12px 0;
+    border-left: 6px solid #0077ff;
+    border-radius: 10px;
+    font-size: 17px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+    transition: 0.3s ease;
+}
